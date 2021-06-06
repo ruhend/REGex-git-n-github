@@ -37,3 +37,5 @@ git pull
 #git rebase
 git rebase 
 
+#git merge present branch into intobranch
+git merge <<into branch>>
