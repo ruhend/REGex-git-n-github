@@ -28,6 +28,8 @@ git branch -D <<existing-name>>
 
 #git fetch
 git fetch
+git fetch -ap
+
 
 #git pull
 git pull
