@@ -1,0 +1,17 @@
+#initialize git
+git init
+
+#cloning git repo
+git clone <<url>>
+
+#connect to a remote repo
+git remote add origin <<url>>
+
+#add unstaged files
+git add <<files>>
+
+#make commits
+git commit -m "<<message>>"
+
+#git branch
+git branch
