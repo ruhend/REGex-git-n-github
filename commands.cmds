@@ -13,5 +13,18 @@ git add <<files>>
 #make commits
 git commit -m "<<message>>"
 
+#git checkout
+git checkout <<git message>>
+git checkout <<branch-name>>
+
 #git branch
-git branch
+git branch -b <<newbranch/code>>
+
+#git push branch to repo
+git push --set-upstream origin <<newbranch>>
+
+#git branch delete
+git branch -D <<existing-name>>
+
+#git fetch
+git fetch
