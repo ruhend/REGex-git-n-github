@@ -28,6 +28,7 @@ git branch -D <<existing-name>>
 
 #git fetch
 git fetch
+<<<<<<< HEAD
 git fetch -ap
 
 
@@ -37,3 +38,5 @@ git pull
 #git rebase
 git rebase 
 
+=======
+>>>>>>> new-branch
